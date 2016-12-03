@@ -1,5 +1,6 @@
 /**
  * Die beiden Zeichen als Enum
+ * Hier ist eine Änderung passiert.
  */
 package util;
 
